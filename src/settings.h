@@ -43,7 +43,7 @@ const String DISPLAYED_LOCATION_NAME = "Galway";
 // Supported languages: https://openweathermap.org/current#multi
 const String OPEN_WEATHER_MAP_LANGUAGE = "en";
 
-const String WEEKDAYS[] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+const String WEEKDAYS[] = {"An Domhnach", "An Luan", "An Mháirt", "An Chéadaoin", "An Déardaoin", "An Aoine", "An Satharn"};
 const String WEEKDAYS_ABBR[] = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"};
 
 const String SUN_MOON_LABEL[] = {"Sun", "Moon"};
