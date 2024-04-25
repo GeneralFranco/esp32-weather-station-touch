@@ -13,7 +13,7 @@ const char *WIFI_PWD = "FrankieAndie247";
 // timezone Europe/Dublin as per https://github.com/nayarsystems/posix_tz_db/blob/master/zones.csv
 #define TIMEZONE "IST-1GMT0,M10.5.0,M3.5.0/1"
 
-#define UPDATE_INTERVAL_MINUTES 10
+#define UPDATE_INTERVAL_MINUTES 3
 
 // uncomment to get "08/23/2022 02:55:02 pm" instead of "23.08.2022 14:55:02"
 // #define DATE_TIME_FORMAT_US
